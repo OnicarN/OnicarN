@@ -18,15 +18,7 @@ Hi :3 ! I love coding and learning in **Java**. I'm going to post many projects 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 🚀 Featured Projects:
-- [📂 Proyecto 1](https://github.com/OnicarN/Proyecto1) - Una aplicación en Java.  
-- [📂 Proyecto 2](https://github.com/OnicarN/Proyecto2) - Otro proyecto interesante.  
-
-*(Pronto más proyectos, stay tuned ✨)*  
-
----
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OnicarN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
