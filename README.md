@@ -25,12 +25,7 @@ Hi :3 ! I love coding and learning in **Java**. I'm going to post many projects 
 ![](https://nirzak-streak-stats.vercel.app/?user=OnicarN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnicarN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-## 📬 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=OnicarN&icon=0&color=0)](https://visitcount.itsvg.in)
 
