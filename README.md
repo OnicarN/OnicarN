@@ -49,21 +49,6 @@ Actualmente estoy **buscando mi primera oportunidad profesional** como desarroll
 - Funcionalidad de llamadas.
 - Tecnologías: Android Studio, Kotlin, Firebase (Firestore + Authentication).
 
-### Experiencia Profesional - Titanium
-- Desarrollo y mantenimiento de **microservicios** en .NET.
-- Uso de **Docker** para contenerización.
-- Creación de analizadores para archivos **PCAP** con **Wireshark**.
-- Gestión de código con **Git** en equipo (branching, PRs y code review).
-- Implementación de migraciones de bases de datos.
-- Aplicación de **Clean Architecture** en proyectos reales.
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=OnicarN&theme=dark&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnicarN&theme=dark&hide_border=false&layout=compact)
-
 ---
 
 ### 📫 Contacto
