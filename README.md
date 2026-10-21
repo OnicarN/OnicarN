@@ -11,13 +11,24 @@
 
 Desarrollador backend con experiencia en producción real: en 2026 trabajé en **Titanium Industrial Security** desarrollando microservicios en **.NET con Clean Architecture**, con migraciones de base de datos, Git en equipo (pull requests y code review) y despliegue con Docker.
 
-Mi stack propio es **Java y Spring Boot**. Construyo APIs REST con PostgreSQL, JPA/Flyway y seguridad con JWT, y las despliego con Docker. Titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** por el IES San Andrés de León, con un **10/10 en el Trabajo de Fin de Grado**, y con formación en ciberseguridad, Machine Learning y NLP por la Universidad de León.
+Mi stack propio es **Java y Spring Boot**. Construyo APIs REST con PostgreSQL, JPA/Flyway y seguridad con JWT, y las despliego con Docker. Ahora mismo mi proyecto principal es **[Criba](https://github.com/OnicarN/Criba)**, un SaaS full stack que analiza currículums con IA.
+
+Titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** por el IES San Andrés de León, con un **10/10 en el Trabajo de Fin de Grado**, y con formación en ciberseguridad, Machine Learning y NLP por la Universidad de León. Uso herramientas de desarrollo asistido por IA como **Claude Code** y **OpenCode** en mi día a día.
 
 📍 León, España
 
 ---
 
 ## Proyectos
+
+### ⭐ [Criba](https://github.com/OnicarN/Criba) · *proyecto principal*
+SaaS full stack que analiza currículums frente a vacantes con IA (Google Gemini), para que los equipos de selección lean menos currículums y entiendan mejor cada uno.
+- Subida de PDF, DOCX y TXT con procesamiento individual y seguimiento de progreso.
+- Ranking, informes, comparativa de candidatos, estado y notas, y exportación a CSV y PDF.
+- Seguridad: BCrypt, JWT, aislamiento de datos por cuenta, bloqueo tras intentos fallidos, CORS y CSP, y clave de IA solo en el servidor.
+- Modelo SaaS con planes, límites aplicados en el servidor y panel de uso.
+
+**Java 17 · Spring Boot 3 · Maven · PostgreSQL · React 18 · Vite · Google Gemini · Docker**
 
 ### [Invoice Intelligence API](https://github.com/OnicarN/invoice-intelligence-api) · *en desarrollo*
 API REST backend para gestionar y procesar facturas, con integración de IA prevista para extraer datos estructurados.
@@ -38,8 +49,9 @@ App Android de mensajería en tiempo real con chat individual y grupal, cifrado 
 | Área | Tecnologías |
 |---|---|
 | **Backend** | Java 17/21, Spring Boot, API REST, Clean Architecture, JPA, Flyway, JWT, .NET (C#) |
+| **Frontend** | React, Vite, JavaScript |
 | **Datos** | PostgreSQL, SQL, migraciones de base de datos |
-| **DevOps y herramientas** | Docker, Docker Compose, Nginx, Git y GitHub |
+| **DevOps y herramientas** | Docker, Docker Compose, Nginx, Git y GitHub, Claude Code, OpenCode |
 | **Móvil y cloud** | Android, Firebase (Authentication, Cloud Messaging, Cloud Functions) |
 | **Seguridad e IA** | Wireshark y análisis de tráfico PCAP, Machine Learning, NLP, API de Gemini |
 
